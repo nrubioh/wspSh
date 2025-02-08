@@ -1,0 +1,17 @@
+# Ignorar entornos virtuales
+env/
+
+# Ignorar credenciales
+credentials.json
+
+# Ignorar cachés de usuario
+User_Data/
+User_Data_20250207_214503/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar Python bytecode
+*.pyc
+__pycache__/
